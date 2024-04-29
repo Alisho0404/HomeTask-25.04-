@@ -5,6 +5,7 @@ using Infrastructure.Services.GroupService;
 using Infrastructure.Services.MentorGroupService;
 using Infrastructure.Services.MentorService;
 using Infrastructure.Services.ProgressBookService;
+using Infrastructure.Services.QueryService;
 using Infrastructure.Services.StudentGroupService;
 using Infrastructure.Services.StudentService;
 using Infrastructure.Services.TimeTableService;
@@ -31,6 +32,7 @@ builder.Services.AddScoped<IMentorGroupService, MentorGroupService>();
 builder.Services.AddScoped<IStudentGroupService, StudentGroupService>();
 builder.Services.AddScoped<ITimeTableService, TimeTableService>();
 builder.Services.AddScoped<IProgressBookService, ProgressBookService>();
+builder.Services.AddScoped<IQueryService, QueryService>();
 
 
 builder.Services.AddAutoMapper(typeof(MapperProfile));

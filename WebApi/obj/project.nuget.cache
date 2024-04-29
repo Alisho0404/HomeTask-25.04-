@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Z4Rt9JDDDmSV6IhEaFjzA+I5Hqki/mJgpZ6XGQoRFDq/s77r/sqO8bJuQqXmZyRgQxJCzWrMOUoEXvqDJz4bg==",
+  "dgSpecHash": "cp7JLHeCUvi6CW5Qg+255L54RYunojjZy1q4F+lMdHTR0Ks6pdmNSmJIBkjlrOe24QWcUl4RvE79CzHe6TUNoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alisho\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Alisho\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

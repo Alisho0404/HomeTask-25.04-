@@ -95,7 +95,7 @@ namespace Infrastructure.Services.StudentService
 
             }
         }
-
+            
         public async Task<Response<GetStudentDto>> GetStudentByIdAsync(int id)
         {
             try

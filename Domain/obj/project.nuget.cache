@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S8eHhgxNq51uTtnJclmBWcF6eUSzx8puRQe7V9EbGY+q3MSS3CPD8T7gaFZBW8BNlfdrYCkwk8NRZjG2o8+Qfw==",
+  "dgSpecHash": "GLrJ8WPFcwhZWLhk/NTBu0k5LBobcuJbqQ2wuPsgd87qdKPd+xayuC6vmkcPBC6FkiaPpTKDB5D5dw0clBgCgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

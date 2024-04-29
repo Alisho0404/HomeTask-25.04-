@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = C:\Users\Alisho\Desktop\.Net Core\Week7\Day1(22.04)\ClassTask(Filters)\Domain\
+build_property.ProjectDir = C:\Users\Alisho\Desktop\.Net Core\Week7\Day2(23.04)\ClassTask(Filters+queries)\Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

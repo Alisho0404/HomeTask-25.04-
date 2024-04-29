@@ -2812,11 +2812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Alisho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alisho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2833,11 +2833,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\Domain\\Domain.csproj"
+            "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day1(22.04)\\ClassTask(Filters)\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Alisho\\Desktop\\.Net Core\\Week7\\Day2(23.04)\\ClassTask(Filters+queries)\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
